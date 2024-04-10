@@ -14,7 +14,7 @@
     $ cd Cobol-project
 
 <li>Run the following command</li>
-    $ cobc -x -free -o <executableName> <scriptName><br />
+    $ cobc -x -free -o executableName scriptName<br />
     This creates the executable executableName.
 
 <li>Run the executable</li>
